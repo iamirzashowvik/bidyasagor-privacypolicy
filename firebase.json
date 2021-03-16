@@ -1,0 +1,11 @@
+{
+  "hosting": {
+"site": "rtreg4545",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
